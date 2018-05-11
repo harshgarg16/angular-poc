@@ -1,16 +1,19 @@
 {
   "employee": [
     {
+      "id":1,
       "idNumber": 1,
       "name": "HG1",
       "salary": 10000
     },
 {
+  "id":2,
       "idNumber": 2,
       "name": "HG2",
       "salary": 20000
     },
 {
+  "id":3,
       "idNumber": 3,
       "name": "HG3",
       "salary": 30000
